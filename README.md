@@ -2,7 +2,7 @@
 
 > An IoT-enabled Smart Attendance Platform built using **MERN Stack, Flutter, ESP32, BLE, MQTT, and Face Recognition** to automate attendance tracking, prevent proxy attendance, and provide real-time monitoring for educational institutions.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![MERN](https://img.shields.io/badge/Stack-MERN-green)
 ![Flutter](https://img.shields.io/badge/Mobile-Flutter-blue)
 ![IoT](https://img.shields.io/badge/IoT-ESP32-orange)
