@@ -170,23 +170,23 @@ The system provides a secure, scalable, and automated attendance management solu
 
 ### Login Page
 
-![Login Page](screenshots/Login.png)
+![Login Page](Screenshots/Login.png)
 
 ### Student Dashboard
 
-![Student Dashboard](screenshots/student-dashboard.png)
+![Student Dashboard](Screenshots/student-dashboard.png)
 
 ### Faculty Dashboard
 
-![Faculty Dashboard](screenshots/faculty-dashboard.png)
+![Faculty Dashboard](Screenshots/faculty-dashboard.png)
 
 ### Attendance Reports
 
-![Attendance Report](screenshots/AttendanceAnalytics.png)
+![Attendance Report](Screenshots/AttendanceAnalytics.png)
 
 ### Flutter Mobile Application
 
-![Flutter App](screenshots/flutter-app.png)
+![Flutter App](Screenshots/flutter-app.jpeg)
 
 # 🔐 Authentication
 
