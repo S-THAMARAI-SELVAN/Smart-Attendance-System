@@ -25,7 +25,7 @@ https://your-backend-api-url.com
 
 # 📖 Project Overview
 
-Traditional attendance systems are often affected by manual errors, proxy attendance, delayed record updates, and limited monitoring capabilities.
+Traditional attendance systems are often affected by manual errors, proxy attendance, delayed record updates, and limited monitoring capabilities..
 
 The Smart Attendance System addresses these challenges by integrating:
 
