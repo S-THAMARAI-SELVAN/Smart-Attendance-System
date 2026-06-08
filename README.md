@@ -170,7 +170,7 @@ The system provides a secure, scalable, and automated attendance management solu
 
 ### Login Page
 
-![Login Page](Screenshots/Login.png)
+![Login Page](Screenshots/login.png)
 
 ### Student Dashboard
 
